@@ -2,7 +2,7 @@
 id: ros2-intro
 title: "Introduction to ROS 2 Middleware"
 description: "Overview of ROS 2's architecture, its role in distributed robot control systems, and benefits for Physical AI."
-slug: /module1/phase1/chapter1
+slug: /module1/chapter1
 ---
 
 # Introduction to ROS 2 Middleware

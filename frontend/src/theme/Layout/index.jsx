@@ -21,13 +21,13 @@ export default function Layout(props) {
   }, []);
 
   return (
-    // <ThemeProvider>
+    <ThemeProvider>
       <ContextualAIProvider>
         <>
           <OriginalLayout {...props} />
           <FloatingChatWidget ref={chatWidgetRef} />
         </>
       </ContextualAIProvider>
-    // </ThemeProvider>
+    </ThemeProvider>
   );
 }

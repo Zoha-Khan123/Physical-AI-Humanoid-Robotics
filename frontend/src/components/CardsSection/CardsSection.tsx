@@ -11,28 +11,28 @@ const CardsSection = () => {
       title: "The Robotic Nervous System (ROS 2)",
       description: "Explore the Robot Operating System 2, the middleware that enables communication between robotic components and provides essential services like hardware abstraction, device drivers, and package management.",
       icon: FaRobot,
-      link: "/docs/module1"
+      link: "/docs/module1/chapter1"
     },
     {
       id: 2,
       title: "The Digital Twin (Gazebo & Unity)",
       description: "Learn how to create accurate digital replicas of physical robots using simulation environments like Gazebo and Unity for testing, development, and training AI models in safe virtual environments.",
       icon: FaCogs,
-      link: "/docs/module2"
+      link: "/docs/module2/chapter5"
     },
     {
       id: 3,
       title: "The AI-Robot Brain (NVIDIA Isaac™)",
       description: "Discover NVIDIA's Isaac platform for developing AI-powered robots with advanced perception, navigation, and manipulation capabilities using deep learning and reinforcement learning techniques.",
       icon: FaBrain,
-      link: "/docs/module3"
+      link: "/docs/module3/chapter9"
     },
     {
       id: 4,
       title: "Vision-Language-Action (VLA)",
       description: "Understand how robots integrate visual perception, language understanding, and physical action to perform complex tasks in human environments and respond to natural language commands.",
       icon: FaEye,
-      link: "/docs/module4"
+      link: "/docs/module4/chapter13"
     }
   ];
 
